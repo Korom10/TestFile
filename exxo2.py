@@ -1,5 +1,5 @@
 #commentaire
-d ={'nom': 'Dupuis', 'prenom': 'Jacques', 'age':30}
+#d ={'nom': 'Dupuis', 'prenom': 'Jacques', 'age':30}
 print(d)
 c = d.keys()
 print(c)
